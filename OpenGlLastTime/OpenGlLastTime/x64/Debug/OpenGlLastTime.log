@@ -1,0 +1,32 @@
+﻿  Main.cpp
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(82): error C3646: 'BindTexture': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(142): error C3646: 'CopyTexImage1D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(142): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(143): error C3646: 'CopyTexImage2D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(143): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(144): error C3646: 'CopyTexSubImage1D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(144): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(145): error C3646: 'CopyTexSubImage2D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(145): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(175): error C3646: 'DeleteTextures': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(175): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(191): error C3646: 'DrawArrays': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(191): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(197): error C3646: 'DrawElements': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(197): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(237): error C3646: 'GenTextures': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(237): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(290): error C3646: 'GetPointerv': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(290): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(390): error C3646: 'IsTexture': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(390): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(435): error C3646: 'PolygonOffset': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(435): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(541): error C3646: 'TexSubImage1D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(541): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(542): error C3646: 'TexSubImage2D': unknown override specifier
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(542): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(67): error C2039: 'DrawArrays': is not a member of 'GL3WProcs::<unnamed-type-gl>'
+  c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(59): note: see declaration of 'GL3WProcs::<unnamed-type-gl>'
