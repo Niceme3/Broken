@@ -27,6 +27,8 @@ c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(541)
 c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(541): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
 c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(542): error C3646: 'TexSubImage2D': unknown override specifier
 c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(542): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(67): error C2039: 'DrawArrays': is not a member of 'GL3WProcs::<unnamed-type-gl>'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\seth7\source\repos\opengllasttime\opengllasttime\main.cpp(68): error C2039: 'DrawArrays': is not a member of 'GL3WProcs::<unnamed-type-gl>'
   c:\users\seth7\source\repos\opengllasttime\opengllasttime\include\gl\gl3w.h(59): note: see declaration of 'GL3WProcs::<unnamed-type-gl>'

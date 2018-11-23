@@ -1,10 +1,11 @@
 #include <GLFW/glfw3.h>
 #include <GLFW/glfw3native.h>
 #include <GL/gl3w.h>
+#include <GL/gl3w.c>
 #include <GL\glcorearb.h>
 #include <KHR/khrplatform.h>
 #include <iostream>
-#include <C:\Users\seth7\Desktop\OGLPG-9th-Edition\include\LoadShaders.h>
+#include <LoadShaders.h>
 using namespace std;
 /// These are almost like tables, VAos store the Triangles, and the amount
 ///We will later on Bind The VAO's And Buffer
